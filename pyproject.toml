@@ -1,0 +1,18 @@
+[tool.pdm]
+[tool.pdm.dev-dependencies]
+dev = [
+    "black>=23.3.0",
+]
+
+[project]
+name = ""
+version = ""
+description = ""
+authors = [
+    {name = "", email = ""},
+]
+dependencies = [
+    "django>=4.2.1",
+]
+requires-python = ">=3.10"
+license = {text = "MIT"}
